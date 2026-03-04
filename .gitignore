@@ -1,0 +1,21 @@
+# Node
+nodejs/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
