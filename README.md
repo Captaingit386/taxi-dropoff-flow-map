@@ -17,16 +17,17 @@ This project analyzes taxi mobility using pickup signals and vehicle telemetry t
 
 ## Project structure
 
+```text
 .
 ├── ML.ipynb
 ├── README.md
 ├── LICENSE
 └── nodejs/
-├── server.js
-├── package.json
-├── public/
-└── data/
-└── pickup_dropoff_flows.csv
+    ├── server.js
+    ├── package.json
+    ├── public/
+    └── data/
+        └── pickup_dropoff_flows.csv
 
 ## Run locally
 
